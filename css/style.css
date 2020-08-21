@@ -1,0 +1,43 @@
+body{
+    background: #d2d2c1 url('/img/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+    
+}
+#principal{
+    /*border:1px solid red; visualizar o tamanho fixo e principal */
+    width: 900px; /* definir largura da div*/
+    /*height: 500px;  definir altura*/
+
+}
+#menu{
+    background: #c5c5b2; /*cor de fundo do menu */
+    padding: 18px; /* aplica um   espaçamento interno */
+  
+
+}
+#conteudo{ /* aqui vai todo conteúdo do site*/
+    background: #e8e8d9;
+    padding: 10px;  /* aplica um   espaçamento interno */
+
+}
+#rodape{
+    text-align: center; /* Alinhamento do texto */
+}
+/*formatando o link */
+a{
+    color: #4b566a;
+    text-decoration: none; /* remover o underline do link */
+    font-weight: bold;
+    padding: 5px; /* aplica um espaçamento interno */
+    
+}
+/*formatando o link fim */
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+.img-camapnha{
+    border: 10px solid #c3c3ae;
+}
+    
